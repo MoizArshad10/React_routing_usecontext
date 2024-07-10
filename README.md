@@ -1,1 +1,7 @@
 ![Home](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/eaf1ba63-cacb-4ebf-8d29-1b9438922e36)
+![About](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/5baee40b-b7cf-494b-9dc0-49a307d70f08)
+![Contact](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/98071ad3-5f3b-4de0-9cb5-c34305b08000)
+![Services](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/63de4a96-24dc-4805-b905-a7101527821b)
+![Product](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/384f0e48-f84c-442c-bf14-cc9d0068f3ee)
+![Color](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/8dd761b8-07ca-4497-92bd-ae23f8c2ae16)
+![App](https://github.com/MoizArshad10/React_routing_usecontext/assets/93007647/e080c7cb-5acd-40b1-bd51-1b28b540ea49)
